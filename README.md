@@ -2,6 +2,8 @@
 
 This repository contains a sample that demonstrates the key features of Syncfusion Flutter Chat widget.
 
+Please refer the Blog through this [link](https://www.syncfusion.com/blogs/post/introducing-new-flutter-chat-widget).
+
 ## Syncfusion widgets:
 
 This project used the following Syncfusion widget(s):
